@@ -1,0 +1,2 @@
+<!ENTITY % h SYSTEM "file:///opt/out/instance/server/default/data">
+<!ENTITY a "%h;">

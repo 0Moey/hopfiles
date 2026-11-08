@@ -1,0 +1,2 @@
+<!ENTITY % h SYSTEM "file:///etc/hostname">
+<!ENTITY a "%h;">
