@@ -1,0 +1,2 @@
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY xxe "%file;">
